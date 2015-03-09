@@ -1,0 +1,23 @@
+﻿@model IEnumerable<OfficeWebApp.Models.Section>
+@{
+    ViewBag.Title = "Index";
+}
+<script type="text/javascript">
+    $(function () {
+        $("#departmentId").change(function () {
+            var id = $("#departmentId").val();
+            $("#section-data").load("Section/FilteredSection", { deptId: id });
+       });
+    });
+</script>
+<h2>Index</h2>
+@using (Html.BeginForm())
+{
+    @Html.DropDownList("departmentId", String.Empty)
+}
+<p>@Html.ActionLink("Create New", "Create")</p>
+
+<div id="section-data">
+    @Html.Partial("~/Views/Shared/_FilteredSection.cshtml", Model)
+</div>
+

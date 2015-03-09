@@ -1,0 +1,110 @@
+c:\users\riad\documents\visual studio 2013\Projects\OfficeWebApp\OfficeWebApp\bin\OfficeWebApp.dll.config
+c:\users\riad\documents\visual studio 2013\Projects\OfficeWebApp\OfficeWebApp\bin\OfficeWebApp.dll
+c:\users\riad\documents\visual studio 2013\Projects\OfficeWebApp\OfficeWebApp\bin\OfficeWebApp.pdb
+c:\users\riad\documents\visual studio 2013\Projects\OfficeWebApp\OfficeWebApp\bin\Antlr3.Runtime.dll
+c:\users\riad\documents\visual studio 2013\Projects\OfficeWebApp\OfficeWebApp\bin\EntityFramework.dll
+c:\users\riad\documents\visual studio 2013\Projects\OfficeWebApp\OfficeWebApp\bin\EntityFramework.SqlServer.dll
+c:\users\riad\documents\visual studio 2013\Projects\OfficeWebApp\OfficeWebApp\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\riad\documents\visual studio 2013\Projects\OfficeWebApp\OfficeWebApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\riad\documents\visual studio 2013\Projects\OfficeWebApp\OfficeWebApp\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\riad\documents\visual studio 2013\Projects\OfficeWebApp\OfficeWebApp\bin\Microsoft.Owin.dll
+c:\users\riad\documents\visual studio 2013\Projects\OfficeWebApp\OfficeWebApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\riad\documents\visual studio 2013\Projects\OfficeWebApp\OfficeWebApp\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\riad\documents\visual studio 2013\Projects\OfficeWebApp\OfficeWebApp\bin\Microsoft.Owin.Security.dll
+c:\users\riad\documents\visual studio 2013\Projects\OfficeWebApp\OfficeWebApp\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\riad\documents\visual studio 2013\Projects\OfficeWebApp\OfficeWebApp\bin\Microsoft.Owin.Security.Google.dll
+c:\users\riad\documents\visual studio 2013\Projects\OfficeWebApp\OfficeWebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\riad\documents\visual studio 2013\Projects\OfficeWebApp\OfficeWebApp\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\riad\documents\visual studio 2013\Projects\OfficeWebApp\OfficeWebApp\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\riad\documents\visual studio 2013\Projects\OfficeWebApp\OfficeWebApp\bin\Microsoft.Web.Infrastructure.dll
+c:\users\riad\documents\visual studio 2013\Projects\OfficeWebApp\OfficeWebApp\bin\Newtonsoft.Json.dll
+c:\users\riad\documents\visual studio 2013\Projects\OfficeWebApp\OfficeWebApp\bin\Owin.dll
+c:\users\riad\documents\visual studio 2013\Projects\OfficeWebApp\OfficeWebApp\bin\System.Web.Helpers.dll
+c:\users\riad\documents\visual studio 2013\Projects\OfficeWebApp\OfficeWebApp\bin\System.Web.Mvc.dll
+c:\users\riad\documents\visual studio 2013\Projects\OfficeWebApp\OfficeWebApp\bin\System.Web.Optimization.dll
+c:\users\riad\documents\visual studio 2013\Projects\OfficeWebApp\OfficeWebApp\bin\System.Web.Razor.dll
+c:\users\riad\documents\visual studio 2013\Projects\OfficeWebApp\OfficeWebApp\bin\System.Web.WebPages.Deployment.dll
+c:\users\riad\documents\visual studio 2013\Projects\OfficeWebApp\OfficeWebApp\bin\System.Web.WebPages.dll
+c:\users\riad\documents\visual studio 2013\Projects\OfficeWebApp\OfficeWebApp\bin\System.Web.WebPages.Razor.dll
+c:\users\riad\documents\visual studio 2013\Projects\OfficeWebApp\OfficeWebApp\bin\WebGrease.dll
+c:\users\riad\documents\visual studio 2013\Projects\OfficeWebApp\OfficeWebApp\bin\System.Web.Helpers.xml
+c:\users\riad\documents\visual studio 2013\Projects\OfficeWebApp\OfficeWebApp\bin\System.Web.Mvc.xml
+c:\users\riad\documents\visual studio 2013\Projects\OfficeWebApp\OfficeWebApp\bin\System.Web.Optimization.xml
+c:\users\riad\documents\visual studio 2013\Projects\OfficeWebApp\OfficeWebApp\bin\System.Web.Razor.xml
+c:\users\riad\documents\visual studio 2013\Projects\OfficeWebApp\OfficeWebApp\bin\System.Web.WebPages.xml
+c:\users\riad\documents\visual studio 2013\Projects\OfficeWebApp\OfficeWebApp\bin\System.Web.WebPages.Deployment.xml
+c:\users\riad\documents\visual studio 2013\Projects\OfficeWebApp\OfficeWebApp\bin\System.Web.WebPages.Razor.xml
+c:\users\riad\documents\visual studio 2013\Projects\OfficeWebApp\OfficeWebApp\bin\Newtonsoft.Json.xml
+c:\users\riad\documents\visual studio 2013\Projects\OfficeWebApp\OfficeWebApp\bin\Antlr3.Runtime.pdb
+c:\users\riad\documents\visual studio 2013\Projects\OfficeWebApp\OfficeWebApp\bin\EntityFramework.xml
+c:\users\riad\documents\visual studio 2013\Projects\OfficeWebApp\OfficeWebApp\bin\EntityFramework.SqlServer.xml
+c:\users\riad\documents\visual studio 2013\Projects\OfficeWebApp\OfficeWebApp\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\riad\documents\visual studio 2013\Projects\OfficeWebApp\OfficeWebApp\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\riad\documents\visual studio 2013\Projects\OfficeWebApp\OfficeWebApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\riad\documents\visual studio 2013\Projects\OfficeWebApp\OfficeWebApp\bin\Microsoft.Owin.xml
+c:\users\riad\documents\visual studio 2013\Projects\OfficeWebApp\OfficeWebApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\riad\documents\visual studio 2013\Projects\OfficeWebApp\OfficeWebApp\bin\Microsoft.Owin.Security.xml
+c:\users\riad\documents\visual studio 2013\Projects\OfficeWebApp\OfficeWebApp\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\riad\documents\visual studio 2013\Projects\OfficeWebApp\OfficeWebApp\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\riad\documents\visual studio 2013\Projects\OfficeWebApp\OfficeWebApp\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\riad\documents\visual studio 2013\Projects\OfficeWebApp\OfficeWebApp\bin\Microsoft.Owin.Security.Google.xml
+c:\users\riad\documents\visual studio 2013\Projects\OfficeWebApp\OfficeWebApp\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\riad\documents\visual studio 2013\Projects\OfficeWebApp\OfficeWebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\riad\documents\visual studio 2013\Projects\OfficeWebApp\OfficeWebApp\obj\Debug\OfficeWebApp.csprojResolveAssemblyReference.cache
+c:\users\riad\documents\visual studio 2013\Projects\OfficeWebApp\OfficeWebApp\obj\Debug\OfficeWebApp.dll
+c:\users\riad\documents\visual studio 2013\Projects\OfficeWebApp\OfficeWebApp\obj\Debug\OfficeWebApp.pdb
+D:\New folder (2)\New folder\OfficeWebApp\OfficeWebApp\bin\OfficeWebApp.dll.config
+D:\New folder (2)\New folder\OfficeWebApp\OfficeWebApp\bin\OfficeWebApp.dll
+D:\New folder (2)\New folder\OfficeWebApp\OfficeWebApp\bin\OfficeWebApp.pdb
+D:\New folder (2)\New folder\OfficeWebApp\OfficeWebApp\bin\Antlr3.Runtime.dll
+D:\New folder (2)\New folder\OfficeWebApp\OfficeWebApp\bin\EntityFramework.dll
+D:\New folder (2)\New folder\OfficeWebApp\OfficeWebApp\bin\EntityFramework.SqlServer.dll
+D:\New folder (2)\New folder\OfficeWebApp\OfficeWebApp\bin\Microsoft.AspNet.Identity.Core.dll
+D:\New folder (2)\New folder\OfficeWebApp\OfficeWebApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\New folder (2)\New folder\OfficeWebApp\OfficeWebApp\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\New folder (2)\New folder\OfficeWebApp\OfficeWebApp\bin\Microsoft.Owin.dll
+D:\New folder (2)\New folder\OfficeWebApp\OfficeWebApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\New folder (2)\New folder\OfficeWebApp\OfficeWebApp\bin\Microsoft.Owin.Security.Cookies.dll
+D:\New folder (2)\New folder\OfficeWebApp\OfficeWebApp\bin\Microsoft.Owin.Security.dll
+D:\New folder (2)\New folder\OfficeWebApp\OfficeWebApp\bin\Microsoft.Owin.Security.Facebook.dll
+D:\New folder (2)\New folder\OfficeWebApp\OfficeWebApp\bin\Microsoft.Owin.Security.Google.dll
+D:\New folder (2)\New folder\OfficeWebApp\OfficeWebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\New folder (2)\New folder\OfficeWebApp\OfficeWebApp\bin\Microsoft.Owin.Security.OAuth.dll
+D:\New folder (2)\New folder\OfficeWebApp\OfficeWebApp\bin\Microsoft.Owin.Security.Twitter.dll
+D:\New folder (2)\New folder\OfficeWebApp\OfficeWebApp\bin\Microsoft.Web.Infrastructure.dll
+D:\New folder (2)\New folder\OfficeWebApp\OfficeWebApp\bin\Newtonsoft.Json.dll
+D:\New folder (2)\New folder\OfficeWebApp\OfficeWebApp\bin\Owin.dll
+D:\New folder (2)\New folder\OfficeWebApp\OfficeWebApp\bin\System.Web.Helpers.dll
+D:\New folder (2)\New folder\OfficeWebApp\OfficeWebApp\bin\System.Web.Mvc.dll
+D:\New folder (2)\New folder\OfficeWebApp\OfficeWebApp\bin\System.Web.Optimization.dll
+D:\New folder (2)\New folder\OfficeWebApp\OfficeWebApp\bin\System.Web.Razor.dll
+D:\New folder (2)\New folder\OfficeWebApp\OfficeWebApp\bin\System.Web.WebPages.Deployment.dll
+D:\New folder (2)\New folder\OfficeWebApp\OfficeWebApp\bin\System.Web.WebPages.dll
+D:\New folder (2)\New folder\OfficeWebApp\OfficeWebApp\bin\System.Web.WebPages.Razor.dll
+D:\New folder (2)\New folder\OfficeWebApp\OfficeWebApp\bin\WebGrease.dll
+D:\New folder (2)\New folder\OfficeWebApp\OfficeWebApp\bin\System.Web.Helpers.xml
+D:\New folder (2)\New folder\OfficeWebApp\OfficeWebApp\bin\System.Web.Mvc.xml
+D:\New folder (2)\New folder\OfficeWebApp\OfficeWebApp\bin\System.Web.Optimization.xml
+D:\New folder (2)\New folder\OfficeWebApp\OfficeWebApp\bin\System.Web.Razor.xml
+D:\New folder (2)\New folder\OfficeWebApp\OfficeWebApp\bin\System.Web.WebPages.xml
+D:\New folder (2)\New folder\OfficeWebApp\OfficeWebApp\bin\System.Web.WebPages.Deployment.xml
+D:\New folder (2)\New folder\OfficeWebApp\OfficeWebApp\bin\System.Web.WebPages.Razor.xml
+D:\New folder (2)\New folder\OfficeWebApp\OfficeWebApp\bin\Newtonsoft.Json.xml
+D:\New folder (2)\New folder\OfficeWebApp\OfficeWebApp\bin\Antlr3.Runtime.pdb
+D:\New folder (2)\New folder\OfficeWebApp\OfficeWebApp\bin\EntityFramework.xml
+D:\New folder (2)\New folder\OfficeWebApp\OfficeWebApp\bin\EntityFramework.SqlServer.xml
+D:\New folder (2)\New folder\OfficeWebApp\OfficeWebApp\bin\Microsoft.AspNet.Identity.Core.xml
+D:\New folder (2)\New folder\OfficeWebApp\OfficeWebApp\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\New folder (2)\New folder\OfficeWebApp\OfficeWebApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\New folder (2)\New folder\OfficeWebApp\OfficeWebApp\bin\Microsoft.Owin.xml
+D:\New folder (2)\New folder\OfficeWebApp\OfficeWebApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\New folder (2)\New folder\OfficeWebApp\OfficeWebApp\bin\Microsoft.Owin.Security.xml
+D:\New folder (2)\New folder\OfficeWebApp\OfficeWebApp\bin\Microsoft.Owin.Security.Facebook.xml
+D:\New folder (2)\New folder\OfficeWebApp\OfficeWebApp\bin\Microsoft.Owin.Security.Cookies.xml
+D:\New folder (2)\New folder\OfficeWebApp\OfficeWebApp\bin\Microsoft.Owin.Security.OAuth.xml
+D:\New folder (2)\New folder\OfficeWebApp\OfficeWebApp\bin\Microsoft.Owin.Security.Google.xml
+D:\New folder (2)\New folder\OfficeWebApp\OfficeWebApp\bin\Microsoft.Owin.Security.Twitter.xml
+D:\New folder (2)\New folder\OfficeWebApp\OfficeWebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\New folder (2)\New folder\OfficeWebApp\OfficeWebApp\obj\Debug\OfficeWebApp.csprojResolveAssemblyReference.cache
+D:\New folder (2)\New folder\OfficeWebApp\OfficeWebApp\obj\Debug\OfficeWebApp.dll
+D:\New folder (2)\New folder\OfficeWebApp\OfficeWebApp\obj\Debug\OfficeWebApp.pdb

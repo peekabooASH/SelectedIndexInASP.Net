@@ -1,0 +1,81 @@
+﻿@model SelectedIndexNormal.Models.CourseAssign
+
+@{
+    ViewBag.Title = "Create";
+}
+
+<h2>Create</h2>
+
+
+@using (Html.BeginForm()) 
+{
+    @Html.AntiForgeryToken()
+    
+    <div class="form-horizontal">
+        <h4>CourseAssign</h4>
+        <hr />
+        @Html.ValidationSummary(true)
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.CourseId, "CourseId", new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.DropDownList("CourseId", String.Empty)
+                @Html.ValidationMessageFor(model => model.CourseId)
+            </div>
+
+
+
+            <div class="form-group">
+                <label for="courseName" class="col-sm-2 control-label">Course Name</label>
+                <div class="col-sm-10">
+                    <input type="text" class="form-control" name="courseName" id="courseName">
+                </div>
+            </div>
+            <div class="form-group">
+                <label for="courseCredit" class="col-sm-2 control-label">Credit</label>
+                <div class="col-sm-10">
+                    <input type="text" name="courseCredit" class="form-control" id="courseCredit">
+                </div>
+            </div>
+
+
+
+        </div>
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Create" class="btn btn-default" />
+            </div>
+        </div>
+    </div>
+}
+
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+<script type="text/javascript">
+    $(document).ready(function () {
+        $("#CourseId").change(function () {
+                var optionSelected = $(this).find("option:selected");
+                var courseId = optionSelected.val();
+                var mydata = { courseID: courseId };
+                $.ajax({
+                    type: "POST",
+                    url: '@Url.Action("GetInfo", "Course")',
+                    contentType: "application/json; charset=utf-8",
+                    data: JSON.stringify(mydata),
+                    dataType: "json",
+                    success: function (data) {
+                        credit = data.Credit;
+                        $("#courseName").val(data.Name);
+                        $("#courseCredit").val(data.Credit);
+                     
+                    },
+                });
+            });
+        });
+</script>
+}

@@ -1,0 +1,21 @@
+﻿
+@model IEnumerable<OfficeWebApp.Models.Section>
+<table>
+    <tr>
+        <th>DepartmentId</th>
+        <th>Code</th>
+        <th>Description</th>
+        <th>Dept Code</th>
+        <th></th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@Html.DisplayFor(modelItem => item.DepartmentId)</td>
+            <td>@Html.DisplayFor(modelItem => item.Code)</td>
+            <td>@Html.DisplayFor(modelItem => item.Description)</td>
+            <td>@Html.DisplayFor(modelItem => item.Department.Code)</td>
+        </tr>
+    }
+</table>
+
